@@ -13,6 +13,8 @@ This project involves working with two types of smart contracts: an ERC20 token 
 - Increase the total number of tokens available.
 - Reduce the total number of tokens available.
 
+![Alt text](subnet-terminal.png)
+
 ## Tools Used
 
 - Computer running MacOS or Linux
