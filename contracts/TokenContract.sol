@@ -5,8 +5,8 @@ contract TokenContract {
     uint public totalSupply;
     mapping(address => uint) public balanceOf;
     mapping(address => mapping(address => uint)) public allowance;
-    string public name = "Solidity by Example";
-    string public symbol = "SOLBYEX";
+    string public name = "VickishTkns";
+    string public symbol = "VKT";
     uint8 public decimals = 18;
 
     event Transfer(address indexed from, address indexed to, uint value);
